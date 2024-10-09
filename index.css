@@ -1,0 +1,15 @@
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+
+}
+ input{
+    outline: none;
+ }
+ .hk{
+    box-shadow: 4px 4px 4px 0px  rgb(59, 50, 50);
+ }
